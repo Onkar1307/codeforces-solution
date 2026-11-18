@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
@@ -23,6 +24,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Onkar1307/codeforces-solution/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Onkar1307/codeforces-solution/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 
 ### math
 
